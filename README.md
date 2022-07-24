@@ -1,2 +1,2 @@
-# trading-application
+# AutoQuant
 Trading Application in development
